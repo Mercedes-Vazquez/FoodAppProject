@@ -1,0 +1,10 @@
+#buttonChart{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color:rgb(10, 10, 10);
+    background-color: rgb(71, 43, 235);
+    border-radius: 5%;
+    width: 150px;
+    padding: 15px;
+    margin-left: 45%;
+   }
