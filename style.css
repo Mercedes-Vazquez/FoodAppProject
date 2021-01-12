@@ -8,3 +8,21 @@
     padding: 15px;
     margin-left: 45%;
    }
+
+   header{
+       font-family: "Raleway";
+       border: 1px solid red;
+       background-color: salmon;
+       overflow: hidden;
+   }
+
+  img{
+    /* position:absolute;
+    right: 150px; */
+    border: 1px solid red;
+
+  }
+
+  p{
+    color: #B4B4B4;
+  }
