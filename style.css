@@ -14,7 +14,7 @@
       justify-content: space-between;
       font-family: "Raleway";
        border: 1px solid red;
-       background-color: salmon;
+       background-color: rgb(245, 233, 231);
        overflow: hidden;
        padding: 20px;
    }
