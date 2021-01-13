@@ -10,13 +10,16 @@
    }
 
    header{
-       font-family: "Raleway";
+      display: flex;   
+      justify-content: space-between;
+      font-family: "Raleway";
        border: 1px solid red;
        background-color: salmon;
        overflow: hidden;
+       padding: 20px;
    }
 
-  img{
+  header img{
     /* position:absolute;
     right: 150px; */
     border: 1px solid red;
